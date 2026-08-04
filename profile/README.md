@@ -29,4 +29,8 @@ We're just getting our GitHub organization set up, so this space is going to fil
 
 ---
 
+<div align="center">
+  <img src="footer-banner.png" alt="NegruzziHub" width="100%">
+</div>
+
 <p align="center"><sub>NegruzziHub : a student club at Colegiul Național "Costache Negruzzi" Iași.</sub></p>
