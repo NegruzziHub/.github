@@ -4,10 +4,6 @@
 
 <br>
 
-<div align="center">
-  <img src="negruzzihub-crest.png" alt="NegruzziHub crest" width="140">
-</div>
-
 <h1 align="center">NegruzziHub</h1>
 <p align="center"><em>The technology club of Colegiul Național "Costache Negruzzi" Iași.</em></p>
 
