@@ -10,7 +10,8 @@
 <p align="center">
   <a href="https://github.com/NegruzziHub/CentralPoint">Central Point</a> •
   <a href="https://github.com/NegruzziHub/CentralPoint/blob/main/docs/onboarding/getting-started.md">Getting Started</a> •
-  <a href="https://github.com/NegruzziHub/CentralPoint/blob/main/CODE_OF_CONDUCT.md">Code of Conduct</a>
+  <a href="https://github.com/NegruzziHub/CentralPoint/blob/main/CODE_OF_CONDUCT.md">Code of Conduct</a> •
+  <a href="https://github.com/NegruzziHub/CentralPoint/blob/main/docs/administration.md">Administration Team</a>
 </p>
 
 ---
