@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="hero-banner.png" alt="NegruzziHub" width="100%">
+  <img src="hero-banner.jpg" alt="NegruzziHub" width="100%">
 </div>
 
 <br>
@@ -32,7 +32,7 @@ We're just getting our GitHub organization set up, so this space is going to fil
 ---
 
 <div align="center">
-  <img src="footer-banner.png" alt="NegruzziHub" width="100%">
+  <img src="footer-banner.jpg" alt="NegruzziHub" width="100%">
 </div>
 
 <p align="center"><sub>NegruzziHub : a student club at Colegiul Național "Costache Negruzzi" Iași.</sub></p>
