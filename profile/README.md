@@ -21,6 +21,10 @@
 
 We're a group of students who like building things, and this is where we build them. Some of us have been writing code for years, some of us joined the club last week : both are welcome here in equal measure.
 
+### Our slogan?
+
+Code. Collaborate. Create.
+
 ### Where to start
 
 Everything about how we work : standards, templates, onboarding, security practices : lives in **[`CentralPoint`](https://github.com/NegruzziHub/CentralPoint)**. If you're new to the organization, that's the first repository worth opening.
